@@ -1,1 +1,1 @@
-# ubuntu_google_translator.py
+# small tool run in terminal
